@@ -1,2 +1,2 @@
 config: 
-   dev: master branches config-dev settings version = 1
+   dev: dev branches config-dev settings version = 1
